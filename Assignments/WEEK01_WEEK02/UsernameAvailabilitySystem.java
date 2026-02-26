@@ -18,8 +18,8 @@ public class UsernameAvailabilitySystem {
     }
 
     // Register user
-    public boolean registerUser(String username, int userId) {
-        return users.putIfAbsent(username, userId) == null;
+    public void registerUser(String username, int userId) {
+        users.putIfAbsent(username, userId);
     }
 
     // Suggest alternatives

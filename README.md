@@ -1,6 +1,6 @@
 # STEP - Year 2 Semester 4 (Java)
 
-This repository contains weekly Java assignments for STEP Year 2 Semester 4.
+This repository contains weekly Java assignments for STEP Year 2 Semester 4...
 
 ## Structure
 
